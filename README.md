@@ -2,7 +2,7 @@
 
 Academic project made by three people in order to build a simple virtual file system.
 
-#Istruction :
+# Istruction :
 to compile, in shell exec:
 $ make so_game
 
